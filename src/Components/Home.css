@@ -1,0 +1,51 @@
+.add {
+  border-radius: 15px;
+  border: none;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #6698ff;
+}
+.add:hover {
+  background-color: #674af7;
+  color: #ffffff;
+}
+.view {
+  border-radius: 15px;
+  border: none;
+  padding: 4px 20px;
+  color: #ffffff;
+  background-color: #45c09f;
+}
+.view:hover {
+  background-color: #00845c;
+}
+.edit {
+  border-radius: 15px;
+  border: none;
+  padding: 4px 20px;
+  color: #ffffff;
+  background-color: #6698ff;
+}
+.edit:hover {
+  background-color: #674af7;
+}
+.delete {
+  border-radius: 15px;
+  border: none;
+  padding: 4px 20px;
+  color: #ffffff;
+  background-color: #a941f2;
+}
+.delete:hover {
+  background-color: #892bcc;
+}
+.head {
+  background-color: #674af7;
+  color: #ffffff;
+}
+.tologin {
+  cursor: pointer;
+  color: #6d91e4;
+  font-weight: 600;
+}

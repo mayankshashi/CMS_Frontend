@@ -1,0 +1,13 @@
+.logo {
+  margin: 2rem 4 rem;
+  width: 32px;
+  cursor: pointer;
+}
+.icon {
+  display: flex;
+  justify-content: end;
+  gap: 32px;
+}
+.card {
+  background-color: #d3d3d3;
+}

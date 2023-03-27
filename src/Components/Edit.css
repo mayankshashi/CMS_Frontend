@@ -1,0 +1,26 @@
+.logo {
+  margin: 24px 0;
+  width: 32px;
+  cursor: pointer;
+}
+.inputField {
+  background-color: #f5f5f5;
+  padding: 8px 8px;
+  transition: background-color 0.5s ease-in;
+  border: 1.5px solid #d3d3d3;
+  border-radius: 24px;
+}
+.inputField:active {
+  background-color: #ffffff;
+}
+.btn-edit {
+  background-color: rgba(87, 184, 70, 0.8);
+  border: 1.5px solid #d3d3d3;
+  border-radius: 24px;
+  margin-top: 24px;
+  padding: 8px 0;
+}
+
+.btn-edit:hover {
+  background-color: #666666;
+}
